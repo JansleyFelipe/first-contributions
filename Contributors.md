@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Jansley Felipe](https://github.com/JansleyFelipe)
 - [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
